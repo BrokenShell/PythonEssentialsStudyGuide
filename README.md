@@ -3,6 +3,8 @@ This study guide covers a range of topics to help you learn Python programming f
 
 Python is a high-level, general-purpose programming language that is widely used in the field of data science. It is known for its simplicity and versatility, making it a great language for beginners to learn. Python has a large and active community of users, which means that there is a wealth of online resources and libraries available to help you get started. It also has a number of powerful built-in data types and libraries, such as numpy and pandas, that are specifically designed for working with data. This makes it an ideal language for data scientists who need to quickly and easily manipulate and analyze large datasets.
 
+[Python Docs](https://docs.python.org)
+
 ---
 
 ## Python Basics  
